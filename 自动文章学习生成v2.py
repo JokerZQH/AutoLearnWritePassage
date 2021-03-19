@@ -2,7 +2,7 @@
 # 写文件
 import random
 import jieba
-
+实习期间我学到了
 # 连续储存两个词语，理论上生成文章更流畅
 '''
 txt
